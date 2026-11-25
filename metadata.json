@@ -1,0 +1,6 @@
+{
+  "name": "wow",
+  "description": "Turn movie English expressions into a 30-second animated short film with English voice and subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
